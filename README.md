@@ -78,3 +78,8 @@ Once complete, find `credit_defaults_model` in your Fabric workspace to see the 
 
 - The Fabric REST API does not yet support triggering notebooks programmatically (manual trigger required).
 - Models trained on Azure ML and hosted on Fabric will not display full details in the Fabric UI (input/output schema, endpoint details, etc.).
+
+## Disclaimer
+
+> [!WARNING]
+> This repository is an **unofficial** guide. It is provided "as is" without warranty of any kind. Use at your own risk. The authors and contributors assume no liability for any damages or issues arising from its use. See the [LICENSE](LICENSE) for full terms.
